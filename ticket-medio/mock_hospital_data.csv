@@ -1,0 +1,101 @@
+dt_competencia,conta,valor_liquido,tp_atendimento,cd_paciente,nm_convenio,nm_setor_produziu,qt_diaria
+2025-02,1000,3489.76,I,415,Particular,UTI Adulto,1
+2025-02,1001,763.7,U,535,SulAmérica,Ambulatório,4
+2025-02,1002,512.69,U,600,Unimed,Pronto Socorro,3
+2025-01,1003,14993.15,A,202,Amil,Ambulatório,3
+2025-01,1004,7015.62,U,676,Particular,UTI Adulto,1
+2025-03,1005,4658.77,I,510,Bradesco Saúde,UTI Adulto,4
+2025-01,1006,14407.21,I,558,Amil,Internação,5
+2025-02,1007,14748.45,A,728,Particular,Centro Cirúrgico,1
+2025-02,1008,10523.89,I,615,Particular,Centro Cirúrgico,1
+2025-01,1009,2147.92,A,416,Particular,Ambulatório,2
+2025-01,1010,3712.77,U,273,Amil,UTI Adulto,1
+2025-02,1011,11767.51,A,532,Unimed,Centro Cirúrgico,3
+2025-01,1012,2688.2,A,917,Unimed,UTI Adulto,5
+2025-02,1013,12920.29,I,506,SulAmérica,Internação,1
+2025-02,1014,10930.45,I,401,SulAmérica,Pronto Socorro,1
+2025-01,1015,11176.28,A,337,Particular,Internação,5
+2025-01,1016,253.29,U,650,SulAmérica,Internação,2
+2025-01,1017,12492.22,I,404,SulAmérica,Pronto Socorro,4
+2025-01,1018,9301.23,U,751,Bradesco Saúde,Internação,1
+2025-02,1019,9553.36,U,790,Bradesco Saúde,UTI Adulto,5
+2025-02,1020,10154.13,U,692,SulAmérica,UTI Adulto,1
+2025-01,1021,8741.81,I,715,Particular,Pronto Socorro,4
+2025-03,1022,6933.76,U,180,Amil,UTI Adulto,2
+2025-02,1023,14586.78,A,284,Unimed,Centro Cirúrgico,2
+2025-01,1024,13617.22,I,206,Particular,Internação,3
+2025-01,1025,13253.03,U,361,Particular,Ambulatório,2
+2025-02,1026,4613.86,I,309,Unimed,Ambulatório,5
+2025-02,1027,12353.81,A,590,Particular,Internação,5
+2025-01,1028,7600.74,U,227,Amil,Ambulatório,3
+2025-02,1029,13904.95,A,325,Unimed,Internação,5
+2025-01,1030,10405.5,I,607,SulAmérica,Internação,3
+2025-01,1031,2215.03,U,257,Amil,Internação,1
+2025-02,1032,12681.68,A,703,Amil,Internação,4
+2025-02,1033,13323.89,U,629,Unimed,Pronto Socorro,4
+2025-02,1034,1233.6,A,823,Bradesco Saúde,UTI Adulto,4
+2025-01,1035,12050.55,I,354,Unimed,Ambulatório,5
+2025-02,1036,12811.71,U,608,Amil,Pronto Socorro,5
+2025-01,1037,1758.57,U,539,Bradesco Saúde,UTI Adulto,4
+2025-01,1038,373.69,A,223,Particular,Internação,1
+2025-01,1039,4566.44,A,339,Particular,UTI Adulto,3
+2025-01,1040,14160.17,I,940,Bradesco Saúde,Centro Cirúrgico,3
+2025-01,1041,10747.06,I,876,SulAmérica,UTI Adulto,2
+2025-01,1042,4973.62,U,932,SulAmérica,Pronto Socorro,3
+2025-02,1043,8595.32,I,827,Bradesco Saúde,Internação,2
+2025-01,1044,6859.37,I,987,SulAmérica,Internação,3
+2025-01,1045,11109.57,I,537,Unimed,Centro Cirúrgico,2
+2025-02,1046,576.8,A,546,Particular,Centro Cirúrgico,5
+2025-02,1047,9995.27,I,676,Amil,Internação,2
+2025-01,1048,7801.48,U,532,Bradesco Saúde,Ambulatório,1
+2025-02,1049,3676.16,U,620,Bradesco Saúde,Pronto Socorro,2
+2025-01,1050,1618.42,U,447,Unimed,Pronto Socorro,1
+2025-02,1051,7935.95,I,926,Bradesco Saúde,Pronto Socorro,4
+2025-02,1052,10064.65,I,484,Particular,Centro Cirúrgico,5
+2025-02,1053,575.31,A,341,Bradesco Saúde,Pronto Socorro,1
+2025-01,1054,9203.48,U,327,Unimed,Centro Cirúrgico,2
+2025-02,1055,2378.94,A,130,Amil,Pronto Socorro,1
+2025-02,1056,7566.67,A,325,Amil,UTI Adulto,1
+2025-02,1057,9338.81,A,977,Amil,Pronto Socorro,4
+2025-01,1058,11413.62,U,408,Amil,UTI Adulto,2
+2025-01,1059,2518.0,A,315,Particular,Ambulatório,4
+2025-02,1060,10730.33,A,127,Unimed,UTI Adulto,1
+2025-02,1061,13888.41,I,586,Amil,Pronto Socorro,2
+2025-03,1062,2637.52,A,657,Particular,Pronto Socorro,5
+2025-01,1063,8426.94,I,539,Particular,Pronto Socorro,5
+2025-01,1064,11521.9,U,912,Particular,Ambulatório,2
+2025-02,1065,7711.85,U,369,Unimed,Ambulatório,4
+2025-01,1066,3666.87,U,956,SulAmérica,Centro Cirúrgico,3
+2025-02,1067,494.17,U,630,Amil,Ambulatório,5
+2025-02,1068,4827.79,I,882,Particular,UTI Adulto,2
+2025-01,1069,8833.32,A,247,Particular,Ambulatório,1
+2025-01,1070,9934.23,A,798,Amil,Internação,4
+2025-02,1071,2962.26,I,416,Bradesco Saúde,Centro Cirúrgico,3
+2025-01,1072,10523.36,A,761,SulAmérica,UTI Adulto,3
+2025-01,1073,9008.28,I,912,SulAmérica,Ambulatório,1
+2025-01,1074,653.61,U,315,Unimed,Internação,3
+2025-02,1075,9493.48,I,764,SulAmérica,UTI Adulto,1
+2025-02,1076,3161.15,U,435,Unimed,Internação,5
+2025-01,1077,12915.23,U,788,Unimed,Pronto Socorro,2
+2025-02,1078,2798.93,A,313,Bradesco Saúde,UTI Adulto,2
+2025-02,1079,1820.73,A,562,Bradesco Saúde,UTI Adulto,5
+2025-02,1080,7680.54,U,950,Bradesco Saúde,Pronto Socorro,2
+2025-02,1081,5547.09,U,983,Unimed,Internação,2
+2025-02,1082,2526.52,A,791,Bradesco Saúde,Pronto Socorro,2
+2025-02,1083,12970.53,A,935,Unimed,Ambulatório,5
+2025-01,1084,497.28,U,623,Particular,Pronto Socorro,2
+2025-01,1085,2752.74,A,732,Particular,UTI Adulto,5
+2025-01,1086,8527.63,U,910,Bradesco Saúde,Pronto Socorro,1
+2025-02,1087,13025.0,I,600,Particular,UTI Adulto,2
+2025-02,1088,1155.04,U,714,Bradesco Saúde,UTI Adulto,4
+2025-01,1089,9955.43,U,809,Unimed,Ambulatório,1
+2025-01,1090,9972.69,I,392,Particular,Ambulatório,2
+2025-02,1091,3868.42,A,102,SulAmérica,Ambulatório,1
+2025-02,1092,8029.15,A,194,Bradesco Saúde,UTI Adulto,1
+2025-01,1093,3814.47,U,790,SulAmérica,UTI Adulto,3
+2025-01,1094,7804.71,U,862,Particular,UTI Adulto,4
+2025-02,1095,10172.68,U,999,Particular,Centro Cirúrgico,3
+2025-01,1096,14338.06,A,620,Bradesco Saúde,UTI Adulto,2
+2025-02,1097,3451.65,I,856,Bradesco Saúde,Centro Cirúrgico,5
+2025-01,1098,11828.32,U,874,Unimed,Centro Cirúrgico,1
+2025-02,1099,2823.48,I,558,Bradesco Saúde,Pronto Socorro,2

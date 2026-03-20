@@ -1,0 +1,101 @@
+ds_estoque,ds_especie,cd_produto,ds_produto,qt_estoque,vl_custo_medio,valor_total
+Almoxarifado,OPME,5000,Produto 0,546,262.4,143270.4
+Centro Cirúrgico,Material Médico,5001,Produto 1,405,313.3,126886.5
+Fármacia Central,OPME,5002,Produto 2,744,24.5,18228.0
+Almoxarifado,Material Médico,5003,Produto 3,443,454.47,201330.21
+Fármacia Central,Material Médico,5004,Produto 4,496,166.9,82782.4
+Almoxarifado,Antibióticos,5005,Produto 5,55,467.9,25734.5
+Almoxarifado,Antibióticos,5006,Produto 6,964,29.13,28081.32
+Fármacia Central,OPME,5007,Produto 7,114,246.28,28075.92
+Almoxarifado,Antibióticos,5008,Produto 8,905,357.65,323673.25
+Fármacia Central,Material Médico,5009,Produto 9,29,58.35,1692.15
+Centro Cirúrgico,OPME,5010,Produto 10,78,340.63,26569.14
+Fármacia Central,OPME,5011,Produto 11,821,340.45,279509.45
+Almoxarifado,OPME,5012,Produto 12,944,261.41,246771.04
+Centro Cirúrgico,OPME,5013,Produto 13,221,149.46,33030.66
+Fármacia Central,Antibióticos,5014,Produto 14,792,42.31,33509.52
+Almoxarifado,OPME,5015,Produto 15,304,490.61,149145.44
+Fármacia Central,Material Médico,5016,Produto 16,772,115.01,88787.72
+Fármacia Central,OPME,5017,Produto 17,436,361.9,157788.4
+Centro Cirúrgico,Antibióticos,5018,Produto 18,384,67.03,25739.52
+Almoxarifado,Material Médico,5019,Produto 19,940,468.37,440267.8
+Fármacia Central,OPME,5020,Produto 20,508,18.27,9281.16
+Almoxarifado,Material Médico,5021,Produto 21,489,75.38,36860.82
+Almoxarifado,Material Médico,5022,Produto 22,279,175.7,49020.3
+Fármacia Central,Material Médico,5023,Produto 23,973,443.4,431428.2
+Centro Cirúrgico,Antibióticos,5024,Produto 24,575,370.87,213250.25
+Fármacia Central,Material Médico,5025,Produto 25,767,186.01,142669.67
+Centro Cirúrgico,OPME,5026,Produto 26,384,23.02,8839.68
+Almoxarifado,Material Médico,5027,Produto 27,923,414.55,382629.65
+Almoxarifado,OPME,5028,Produto 28,555,429.89,238588.95
+Almoxarifado,OPME,5029,Produto 29,600,209.14,125484.0
+Fármacia Central,Material Médico,5030,Produto 30,554,241.17,133608.18
+Fármacia Central,Material Médico,5031,Produto 31,509,472.34,240421.06
+Fármacia Central,Material Médico,5032,Produto 32,359,286.24,102760.16
+Centro Cirúrgico,Antibióticos,5033,Produto 33,79,248.08,19598.32
+Almoxarifado,OPME,5034,Produto 34,974,180.85,176147.9
+Almoxarifado,Material Médico,5035,Produto 35,789,353.41,278840.49
+Almoxarifado,OPME,5036,Produto 36,749,241.08,180568.92
+Centro Cirúrgico,OPME,5037,Produto 37,665,68.41,45492.65
+Almoxarifado,Material Médico,5038,Produto 38,247,61.26,15131.22
+Fármacia Central,Material Médico,5039,Produto 39,613,72.66,44540.58
+Centro Cirúrgico,Antibióticos,5040,Produto 40,152,35.6,5411.2
+Centro Cirúrgico,OPME,5041,Produto 41,992,476.83,473015.36
+Almoxarifado,Material Médico,5042,Produto 42,566,127.35,72080.1
+Almoxarifado,OPME,5043,Produto 43,466,441.0,205506.0
+Almoxarifado,OPME,5044,Produto 44,644,362.83,233662.52
+Centro Cirúrgico,OPME,5045,Produto 45,101,261.91,26452.91
+Fármacia Central,Antibióticos,5046,Produto 46,21,29.77,625.17
+Centro Cirúrgico,Antibióticos,5047,Produto 47,566,434.58,245972.28
+Centro Cirúrgico,Material Médico,5048,Produto 48,363,96.77,35127.51
+Almoxarifado,OPME,5049,Produto 49,205,54.73,11219.65
+Centro Cirúrgico,Antibióticos,5050,Produto 50,922,233.55,215333.1
+Fármacia Central,Material Médico,5051,Produto 51,949,140.54,133372.46
+Almoxarifado,Antibióticos,5052,Produto 52,25,138.67,3466.75
+Fármacia Central,Material Médico,5053,Produto 53,595,488.13,290437.35
+Fármacia Central,Antibióticos,5054,Produto 54,996,407.58,405949.68
+Almoxarifado,Antibióticos,5055,Produto 55,181,342.41,61976.21
+Almoxarifado,OPME,5056,Produto 56,820,96.15,78843.0
+Fármacia Central,OPME,5057,Produto 57,932,452.62,421841.84
+Fármacia Central,OPME,5058,Produto 58,908,125.64,114081.12
+Fármacia Central,Material Médico,5059,Produto 59,433,100.92,43698.36
+Fármacia Central,OPME,5060,Produto 60,714,277.7,198277.8
+Centro Cirúrgico,Material Médico,5061,Produto 61,386,53.01,20461.86
+Fármacia Central,Antibióticos,5062,Produto 62,612,370.3,226623.6
+Almoxarifado,Material Médico,5063,Produto 63,911,249.11,226939.21
+Almoxarifado,OPME,5064,Produto 64,907,458.13,415523.91
+Almoxarifado,Antibióticos,5065,Produto 65,907,118.97,107905.79
+Almoxarifado,OPME,5066,Produto 66,805,447.29,360068.45
+Almoxarifado,Antibióticos,5067,Produto 67,196,479.83,94046.68
+Almoxarifado,OPME,5068,Produto 68,753,455.38,342901.14
+Almoxarifado,Antibióticos,5069,Produto 69,799,408.6,326471.4
+Almoxarifado,Antibióticos,5070,Produto 70,245,234.51,57454.95
+Centro Cirúrgico,OPME,5071,Produto 71,469,213.42,100093.98
+Fármacia Central,Antibióticos,5072,Produto 72,592,82.87,49059.04
+Centro Cirúrgico,OPME,5073,Produto 73,990,248.14,245658.6
+Almoxarifado,Material Médico,5074,Produto 74,509,19.27,9808.43
+Fármacia Central,Material Médico,5075,Produto 75,265,460.83,122119.95
+Fármacia Central,Antibióticos,5076,Produto 76,895,278.59,249338.05
+Almoxarifado,OPME,5077,Produto 77,493,44.26,21820.18
+Centro Cirúrgico,Antibióticos,5078,Produto 78,964,104.19,100439.16
+Centro Cirúrgico,Antibióticos,5079,Produto 79,158,351.06,55467.48
+Centro Cirúrgico,OPME,5080,Produto 80,622,337.37,209844.14
+Centro Cirúrgico,Antibióticos,5081,Produto 81,842,20.52,17277.84
+Fármacia Central,Material Médico,5082,Produto 82,291,318.5,92683.5
+Fármacia Central,Antibióticos,5083,Produto 83,644,162.07,104373.08
+Fármacia Central,Antibióticos,5084,Produto 84,627,340.1,213242.7
+Centro Cirúrgico,Material Médico,5085,Produto 85,779,128.17,99844.43
+Almoxarifado,OPME,5086,Produto 86,42,34.84,1463.28
+Centro Cirúrgico,OPME,5087,Produto 87,891,64.76,57701.16
+Centro Cirúrgico,OPME,5088,Produto 88,948,348.77,330633.96
+Centro Cirúrgico,Material Médico,5089,Produto 89,133,204.89,27250.37
+Fármacia Central,OPME,5090,Produto 90,196,418.78,82080.88
+Centro Cirúrgico,Antibióticos,5091,Produto 91,721,83.32,60073.72
+Fármacia Central,OPME,5092,Produto 92,31,148.27,4596.37
+Almoxarifado,Material Médico,5093,Produto 93,970,485.94,471361.8
+Fármacia Central,OPME,5094,Produto 94,807,405.85,327520.95
+Centro Cirúrgico,Antibióticos,5095,Produto 95,869,174.26,151431.94
+Almoxarifado,Antibióticos,5096,Produto 96,302,467.14,141076.28
+Almoxarifado,Material Médico,5097,Produto 97,895,349.74,313017.3
+Centro Cirúrgico,OPME,5098,Produto 98,600,240.1,144060.0
+Fármacia Central,OPME,5099,Produto 99,61,9.71,592.31

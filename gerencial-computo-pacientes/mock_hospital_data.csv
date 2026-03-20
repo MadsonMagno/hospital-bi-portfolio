@@ -1,0 +1,101 @@
+cd_atendimento,tipo_atendimento,nm_paciente,nm_convenio,nm_setor,vl_total_bruto,vl_total_liquido,vl_opme,desc_cirurgias
+7000,AMBULATORIAL,Paciente Fictício 90,Bradesco Saúde,Ambulatório,49758.88,44782.99,7543.25,
+7001,INTERNADO,Paciente Fictício 10,SulAmérica,Pronto Socorro,3147.48,2832.73,853.22,Cirurgia Apendicite
+7002,AMBULATORIAL,Paciente Fictício 116,Amil,Centro Cirúrgico,19518.32,17566.49,6058.59,
+7003,AMBULATORIAL,Paciente Fictício 146,Unimed,Centro Cirúrgico,8365.14,7528.63,1980.66,
+7004,AMBULATORIAL,Paciente Fictício 135,Particular,Ambulatório,13934.26,12540.83,2978.42,Cirurgia Apendicite
+7005,INTERNADO,Paciente Fictício 117,Particular,Pronto Socorro,23589.23,21230.31,7626.52,Cirurgia Apendicite
+7006,INTERNADO,Paciente Fictício 66,Unimed,Internação,18120.16,16308.14,2915.89,Cirurgia Apendicite
+7007,AMBULATORIAL,Paciente Fictício 41,Particular,UTI Adulto,38905.5,35014.95,8725.22,Cirurgia Apendicite
+7008,AMBULATORIAL,Paciente Fictício 99,Unimed,Pronto Socorro,18879.68,16991.71,3218.31,Cirurgia Apendicite
+7009,INTERNADO,Paciente Fictício 28,Unimed,Internação,42673.74,38406.37,16943.42,
+7010,AMBULATORIAL,Paciente Fictício 163,Unimed,Centro Cirúrgico,15642.23,14078.01,5830.48,
+7011,AMBULATORIAL,Paciente Fictício 45,Bradesco Saúde,Ambulatório,3370.53,3033.48,805.73,
+7012,INTERNADO,Paciente Fictício 10,SulAmérica,Centro Cirúrgico,28906.89,26016.2,11001.57,Cirurgia Apendicite
+7013,AMBULATORIAL,Paciente Fictício 40,Particular,Ambulatório,4045.66,3641.09,943.09,
+7014,INTERNADO,Paciente Fictício 111,Bradesco Saúde,Pronto Socorro,5433.18,4889.86,1858.74,
+7015,INTERNADO,Paciente Fictício 144,Bradesco Saúde,Internação,27553.22,24797.9,4382.13,
+7016,AMBULATORIAL,Paciente Fictício 49,Amil,Ambulatório,39618.46,35656.61,5948.88,
+7017,INTERNADO,Paciente Fictício 167,Unimed,Internação,38531.71,34678.54,9892.24,
+7018,AMBULATORIAL,Paciente Fictício 55,Particular,Ambulatório,7343.78,6609.4,1440.67,
+7019,INTERNADO,Paciente Fictício 37,Unimed,Ambulatório,27348.0,24613.2,8473.08,Cirurgia Apendicite
+7020,AMBULATORIAL,Paciente Fictício 153,Amil,Internação,31891.13,28702.02,8905.68,
+7021,AMBULATORIAL,Paciente Fictício 48,SulAmérica,Internação,9993.28,8993.95,3893.78,
+7022,INTERNADO,Paciente Fictício 96,Particular,Ambulatório,2030.67,1827.6,348.48,Cirurgia Apendicite
+7023,INTERNADO,Paciente Fictício 197,SulAmérica,Internação,22608.57,20347.71,2284.05,
+7024,AMBULATORIAL,Paciente Fictício 66,Bradesco Saúde,Pronto Socorro,46756.66,42080.99,9548.92,Cirurgia Apendicite
+7025,AMBULATORIAL,Paciente Fictício 103,Particular,Pronto Socorro,11032.39,9929.15,2629.28,Cirurgia Apendicite
+7026,AMBULATORIAL,Paciente Fictício 85,Particular,Ambulatório,8417.05,7575.34,2241.32,Cirurgia Apendicite
+7027,AMBULATORIAL,Paciente Fictício 15,SulAmérica,Pronto Socorro,31319.59,28187.63,5443.38,Cirurgia Apendicite
+7028,INTERNADO,Paciente Fictício 59,Amil,Ambulatório,3686.94,3318.25,408.42,Cirurgia Apendicite
+7029,AMBULATORIAL,Paciente Fictício 10,Unimed,Centro Cirúrgico,15200.39,13680.35,4640.55,Cirurgia Apendicite
+7030,INTERNADO,Paciente Fictício 46,Unimed,Ambulatório,21408.95,19268.06,8069.83,Cirurgia Apendicite
+7031,AMBULATORIAL,Paciente Fictício 47,Unimed,Centro Cirúrgico,3047.56,2742.8,1115.63,Cirurgia Apendicite
+7032,AMBULATORIAL,Paciente Fictício 92,Bradesco Saúde,UTI Adulto,28487.91,25639.12,5679.52,Cirurgia Apendicite
+7033,AMBULATORIAL,Paciente Fictício 82,Amil,UTI Adulto,9001.35,8101.22,2809.35,Cirurgia Apendicite
+7034,AMBULATORIAL,Paciente Fictício 126,Particular,Ambulatório,27970.68,25173.61,7282.56,Cirurgia Apendicite
+7035,AMBULATORIAL,Paciente Fictício 161,Unimed,UTI Adulto,12750.77,11475.69,4526.6,Cirurgia Apendicite
+7036,AMBULATORIAL,Paciente Fictício 46,SulAmérica,Centro Cirúrgico,31017.49,27915.74,7335.06,
+7037,AMBULATORIAL,Paciente Fictício 43,Bradesco Saúde,UTI Adulto,16007.74,14406.97,6379.99,
+7038,AMBULATORIAL,Paciente Fictício 91,Amil,Pronto Socorro,6495.46,5845.91,937.38,
+7039,INTERNADO,Paciente Fictício 9,Particular,Internação,44515.65,40064.08,15337.56,
+7040,AMBULATORIAL,Paciente Fictício 150,Particular,Ambulatório,8462.85,7616.57,2410.15,
+7041,INTERNADO,Paciente Fictício 21,Unimed,Pronto Socorro,11217.48,10095.73,4194.81,Cirurgia Apendicite
+7042,INTERNADO,Paciente Fictício 89,Particular,Ambulatório,3487.91,3139.12,1021.44,
+7043,INTERNADO,Paciente Fictício 119,Bradesco Saúde,Centro Cirúrgico,9024.83,8122.35,1158.85,Cirurgia Apendicite
+7044,INTERNADO,Paciente Fictício 128,Particular,UTI Adulto,17293.82,15564.44,5538.56,
+7045,AMBULATORIAL,Paciente Fictício 97,Particular,Ambulatório,44574.66,40117.19,17239.29,Cirurgia Apendicite
+7046,AMBULATORIAL,Paciente Fictício 131,Amil,Centro Cirúrgico,10499.71,9449.74,1719.45,
+7047,AMBULATORIAL,Paciente Fictício 73,SulAmérica,Internação,11235.93,10112.34,2652.01,
+7048,AMBULATORIAL,Paciente Fictício 16,Amil,Internação,15868.82,14281.94,2785.29,Cirurgia Apendicite
+7049,INTERNADO,Paciente Fictício 2,Particular,Internação,31709.69,28538.72,7495.13,
+7050,AMBULATORIAL,Paciente Fictício 38,Bradesco Saúde,Ambulatório,10415.27,9373.74,1505.16,
+7051,INTERNADO,Paciente Fictício 180,Particular,Ambulatório,27972.83,25175.55,11180.34,
+7052,AMBULATORIAL,Paciente Fictício 59,Bradesco Saúde,Pronto Socorro,16433.86,14790.47,5927.98,Cirurgia Apendicite
+7053,INTERNADO,Paciente Fictício 103,SulAmérica,Pronto Socorro,18657.91,16792.12,2492.73,
+7054,AMBULATORIAL,Paciente Fictício 130,Bradesco Saúde,Pronto Socorro,29212.69,26291.42,4487.77,Cirurgia Apendicite
+7055,INTERNADO,Paciente Fictício 27,Unimed,Centro Cirúrgico,7422.12,6679.91,1730.33,Cirurgia Apendicite
+7056,INTERNADO,Paciente Fictício 25,Particular,UTI Adulto,5761.13,5185.02,2222.82,
+7057,AMBULATORIAL,Paciente Fictício 122,Bradesco Saúde,Ambulatório,46729.29,42056.36,7739.98,
+7058,AMBULATORIAL,Paciente Fictício 172,Bradesco Saúde,Internação,25966.43,23369.79,8651.8,
+7059,INTERNADO,Paciente Fictício 146,Particular,Centro Cirúrgico,30036.16,27032.54,5354.79,Cirurgia Apendicite
+7060,INTERNADO,Paciente Fictício 103,SulAmérica,UTI Adulto,32461.95,29215.76,6121.05,
+7061,AMBULATORIAL,Paciente Fictício 156,Amil,Internação,42975.13,38677.62,7340.9,Cirurgia Apendicite
+7062,AMBULATORIAL,Paciente Fictício 19,Bradesco Saúde,UTI Adulto,33064.82,29758.34,6150.7,Cirurgia Apendicite
+7063,INTERNADO,Paciente Fictício 56,Unimed,Centro Cirúrgico,15432.69,13889.42,2807.83,
+7064,INTERNADO,Paciente Fictício 161,SulAmérica,Pronto Socorro,12781.74,11503.57,1713.31,
+7065,INTERNADO,Paciente Fictício 151,Amil,Internação,18494.65,16645.19,2814.81,
+7066,AMBULATORIAL,Paciente Fictício 25,Unimed,Pronto Socorro,6370.41,5733.37,2046.44,
+7067,AMBULATORIAL,Paciente Fictício 25,Bradesco Saúde,Ambulatório,16190.0,14571.0,2086.69,Cirurgia Apendicite
+7068,INTERNADO,Paciente Fictício 32,Unimed,Internação,19927.73,17934.96,4391.58,Cirurgia Apendicite
+7069,AMBULATORIAL,Paciente Fictício 198,Unimed,Ambulatório,43484.61,39136.15,5850.75,Cirurgia Apendicite
+7070,INTERNADO,Paciente Fictício 101,Bradesco Saúde,Centro Cirúrgico,17245.15,15520.64,5062.66,Cirurgia Apendicite
+7071,INTERNADO,Paciente Fictício 122,SulAmérica,Internação,32576.04,29318.44,4739.7,Cirurgia Apendicite
+7072,AMBULATORIAL,Paciente Fictício 2,Bradesco Saúde,UTI Adulto,32128.0,28915.2,7240.29,Cirurgia Apendicite
+7073,AMBULATORIAL,Paciente Fictício 180,SulAmérica,Ambulatório,13022.57,11720.31,2218.07,
+7074,INTERNADO,Paciente Fictício 59,SulAmérica,Centro Cirúrgico,10638.46,9574.61,3716.88,Cirurgia Apendicite
+7075,INTERNADO,Paciente Fictício 197,Amil,Pronto Socorro,38860.35,34974.32,13927.5,
+7076,INTERNADO,Paciente Fictício 10,Particular,Pronto Socorro,4265.53,3838.98,1470.6,
+7077,INTERNADO,Paciente Fictício 56,Amil,Ambulatório,4368.11,3931.3,1500.97,
+7078,AMBULATORIAL,Paciente Fictício 49,Unimed,UTI Adulto,1156.38,1040.74,330.99,
+7079,AMBULATORIAL,Paciente Fictício 157,Bradesco Saúde,Pronto Socorro,40692.64,36623.38,11660.75,
+7080,AMBULATORIAL,Paciente Fictício 18,SulAmérica,Internação,6296.04,5666.44,1542.14,
+7081,INTERNADO,Paciente Fictício 198,Unimed,UTI Adulto,42279.15,38051.24,8305.81,
+7082,AMBULATORIAL,Paciente Fictício 121,Bradesco Saúde,Centro Cirúrgico,16636.01,14972.41,4821.54,Cirurgia Apendicite
+7083,AMBULATORIAL,Paciente Fictício 26,SulAmérica,UTI Adulto,33463.59,30117.23,4530.99,
+7084,AMBULATORIAL,Paciente Fictício 112,Unimed,Centro Cirúrgico,1206.15,1085.54,338.3,Cirurgia Apendicite
+7085,AMBULATORIAL,Paciente Fictício 176,SulAmérica,Ambulatório,1368.61,1231.75,390.7,Cirurgia Apendicite
+7086,AMBULATORIAL,Paciente Fictício 48,Amil,Internação,9401.27,8461.14,3350.4,
+7087,INTERNADO,Paciente Fictício 162,Unimed,UTI Adulto,29410.05,26469.04,8723.72,Cirurgia Apendicite
+7088,AMBULATORIAL,Paciente Fictício 139,SulAmérica,Internação,5948.27,5353.44,723.61,Cirurgia Apendicite
+7089,INTERNADO,Paciente Fictício 103,Amil,Internação,19152.87,17237.58,5787.44,
+7090,AMBULATORIAL,Paciente Fictício 30,Particular,Ambulatório,18892.25,17003.03,7537.68,Cirurgia Apendicite
+7091,INTERNADO,Paciente Fictício 154,Amil,UTI Adulto,48618.84,43756.96,15587.7,
+7092,INTERNADO,Paciente Fictício 91,Bradesco Saúde,Pronto Socorro,18250.21,16425.19,3874.05,
+7093,INTERNADO,Paciente Fictício 138,Particular,UTI Adulto,29808.94,26828.05,10966.49,
+7094,INTERNADO,Paciente Fictício 150,Unimed,Pronto Socorro,46521.05,41868.95,14940.17,Cirurgia Apendicite
+7095,INTERNADO,Paciente Fictício 80,Amil,Pronto Socorro,25314.67,22783.2,3305.51,Cirurgia Apendicite
+7096,AMBULATORIAL,Paciente Fictício 53,SulAmérica,UTI Adulto,36550.9,32895.81,14103.94,
+7097,AMBULATORIAL,Paciente Fictício 51,Unimed,UTI Adulto,30615.44,27553.9,6704.27,Cirurgia Apendicite
+7098,AMBULATORIAL,Paciente Fictício 146,Unimed,UTI Adulto,46996.39,42296.75,15396.74,
+7099,AMBULATORIAL,Paciente Fictício 50,Unimed,Ambulatório,12852.71,11567.44,4559.16,

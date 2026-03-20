@@ -1,0 +1,101 @@
+cd_atendimento,cd_paciente,dt_atendimento,internado_ha_dias,ds_leito,ds_unid_int,nm_convenio,ds_especialid
+3000,416,2026-03-01,19,Leito 10,Apartamento,SulAmérica,Clínica Médica
+3001,884,2026-03-02,18,Leito 3,Enfermaria,Particular,Clínica Médica
+3002,927,2026-03-03,17,Leito 30,UTI,Amil,Clínica Médica
+3003,120,2026-02-20,28,Leito 28,Apartamento,Unimed,Ortopedia
+3004,895,2026-03-12,8,Leito 16,Enfermaria,Particular,Cardiologia
+3005,383,2026-03-14,6,Leito 36,UTI,Amil,Ortopedia
+3006,563,2026-03-11,9,Leito 38,UTI,Bradesco Saúde,Ortopedia
+3007,253,2026-02-28,20,Leito 35,Apartamento,Amil,Ortopedia
+3008,226,2026-03-11,9,Leito 1,Enfermaria,SulAmérica,Ortopedia
+3009,706,2026-02-21,27,Leito 49,Apartamento,SulAmérica,Clínica Médica
+3010,181,2026-03-17,3,Leito 48,Apartamento,Amil,Cardiologia
+3011,107,2026-02-26,22,Leito 46,Apartamento,Amil,Cardiologia
+3012,747,2026-03-17,3,Leito 12,UTI,Bradesco Saúde,Clínica Médica
+3013,290,2026-03-06,14,Leito 1,Apartamento,Bradesco Saúde,Cardiologia
+3014,212,2026-02-24,24,Leito 6,Apartamento,Amil,Cardiologia
+3015,655,2026-02-22,26,Leito 47,Enfermaria,SulAmérica,Clínica Médica
+3016,570,2026-02-26,22,Leito 36,Enfermaria,Particular,Cardiologia
+3017,968,2026-02-20,28,Leito 27,Apartamento,Unimed,Cardiologia
+3018,413,2026-03-13,7,Leito 21,Enfermaria,Particular,Clínica Médica
+3019,250,2026-03-16,4,Leito 25,Apartamento,Particular,Ortopedia
+3020,344,2026-03-19,1,Leito 4,UTI,Unimed,Clínica Médica
+3021,730,2026-03-01,19,Leito 4,UTI,Amil,Clínica Médica
+3022,272,2026-03-06,14,Leito 6,Apartamento,Particular,Clínica Médica
+3023,853,2026-02-21,27,Leito 19,Enfermaria,Bradesco Saúde,Cardiologia
+3024,269,2026-02-20,28,Leito 46,Apartamento,Unimed,Cardiologia
+3025,690,2026-03-13,7,Leito 24,Apartamento,Bradesco Saúde,Clínica Médica
+3026,176,2026-03-10,10,Leito 21,UTI,Unimed,Clínica Médica
+3027,890,2026-03-06,14,Leito 23,UTI,Bradesco Saúde,Cardiologia
+3028,945,2026-03-15,5,Leito 46,Apartamento,Unimed,Ortopedia
+3029,642,2026-03-11,9,Leito 13,Apartamento,SulAmérica,Cardiologia
+3030,925,2026-02-25,23,Leito 38,Apartamento,Amil,Ortopedia
+3031,824,2026-03-14,6,Leito 37,Enfermaria,Bradesco Saúde,Cardiologia
+3032,746,2026-02-24,24,Leito 23,Apartamento,Amil,Clínica Médica
+3033,629,2026-03-16,4,Leito 37,UTI,Amil,Clínica Médica
+3034,271,2026-02-23,25,Leito 34,UTI,Amil,Ortopedia
+3035,598,2026-03-09,11,Leito 6,Enfermaria,Bradesco Saúde,Cardiologia
+3036,189,2026-02-18,30,Leito 8,Enfermaria,Bradesco Saúde,Clínica Médica
+3037,928,2026-03-06,14,Leito 44,Enfermaria,Bradesco Saúde,Ortopedia
+3038,220,2026-02-24,24,Leito 42,Enfermaria,Particular,Clínica Médica
+3039,356,2026-03-05,15,Leito 42,Apartamento,Amil,Cardiologia
+3040,443,2026-02-22,26,Leito 38,UTI,Unimed,Ortopedia
+3041,707,2026-03-11,9,Leito 34,Enfermaria,Amil,Ortopedia
+3042,794,2026-03-14,6,Leito 4,Enfermaria,Particular,Ortopedia
+3043,453,2026-02-22,26,Leito 48,UTI,Particular,Clínica Médica
+3044,828,2026-03-19,1,Leito 24,UTI,SulAmérica,Cardiologia
+3045,391,2026-03-10,10,Leito 1,Apartamento,Bradesco Saúde,Ortopedia
+3046,267,2026-03-11,9,Leito 1,UTI,SulAmérica,Clínica Médica
+3047,468,2026-03-01,19,Leito 40,Enfermaria,Bradesco Saúde,Ortopedia
+3048,345,2026-02-21,27,Leito 46,Enfermaria,Amil,Clínica Médica
+3049,811,2026-03-11,9,Leito 36,Apartamento,Unimed,Cardiologia
+3050,555,2026-03-05,15,Leito 5,UTI,Bradesco Saúde,Ortopedia
+3051,138,2026-03-06,14,Leito 13,Enfermaria,Unimed,Ortopedia
+3052,140,2026-03-14,6,Leito 33,UTI,Unimed,Cardiologia
+3053,390,2026-03-12,8,Leito 17,Enfermaria,SulAmérica,Cardiologia
+3054,345,2026-03-06,14,Leito 44,UTI,Unimed,Ortopedia
+3055,826,2026-03-03,17,Leito 36,Apartamento,Unimed,Cardiologia
+3056,973,2026-03-05,15,Leito 38,UTI,Particular,Ortopedia
+3057,983,2026-03-04,16,Leito 40,Apartamento,Bradesco Saúde,Ortopedia
+3058,735,2026-02-19,29,Leito 19,UTI,Amil,Cardiologia
+3059,563,2026-03-10,10,Leito 21,Enfermaria,Unimed,Clínica Médica
+3060,455,2026-03-04,16,Leito 4,Enfermaria,Amil,Cardiologia
+3061,477,2026-03-05,15,Leito 2,Enfermaria,Amil,Clínica Médica
+3062,467,2026-03-19,1,Leito 50,Enfermaria,SulAmérica,Ortopedia
+3063,330,2026-03-18,2,Leito 36,Enfermaria,Amil,Cardiologia
+3064,642,2026-02-22,26,Leito 22,Apartamento,Particular,Ortopedia
+3065,746,2026-03-10,10,Leito 41,Apartamento,Bradesco Saúde,Ortopedia
+3066,194,2026-03-01,19,Leito 42,UTI,Particular,Ortopedia
+3067,695,2026-03-02,18,Leito 28,Enfermaria,Particular,Clínica Médica
+3068,115,2026-03-06,14,Leito 33,Enfermaria,SulAmérica,Ortopedia
+3069,350,2026-03-14,6,Leito 6,UTI,Unimed,Ortopedia
+3070,820,2026-02-24,24,Leito 3,UTI,SulAmérica,Cardiologia
+3071,955,2026-03-04,16,Leito 11,Apartamento,Unimed,Cardiologia
+3072,309,2026-02-28,20,Leito 17,UTI,Amil,Ortopedia
+3073,520,2026-03-15,5,Leito 18,Apartamento,SulAmérica,Cardiologia
+3074,614,2026-02-22,26,Leito 30,Apartamento,Unimed,Clínica Médica
+3075,395,2026-02-24,24,Leito 28,UTI,Bradesco Saúde,Ortopedia
+3076,803,2026-02-19,29,Leito 27,Enfermaria,SulAmérica,Cardiologia
+3077,262,2026-03-10,10,Leito 44,UTI,Unimed,Clínica Médica
+3078,477,2026-03-15,5,Leito 21,Apartamento,Amil,Ortopedia
+3079,285,2026-03-08,12,Leito 27,Enfermaria,Unimed,Ortopedia
+3080,265,2026-03-17,3,Leito 5,Apartamento,Particular,Ortopedia
+3081,689,2026-03-06,14,Leito 45,Enfermaria,Unimed,Ortopedia
+3082,301,2026-03-03,17,Leito 23,UTI,SulAmérica,Clínica Médica
+3083,298,2026-03-12,8,Leito 18,Enfermaria,Particular,Cardiologia
+3084,694,2026-03-17,3,Leito 20,Apartamento,Unimed,Cardiologia
+3085,421,2026-03-05,15,Leito 38,Apartamento,Bradesco Saúde,Ortopedia
+3086,225,2026-03-10,10,Leito 5,Enfermaria,Bradesco Saúde,Clínica Médica
+3087,365,2026-03-02,18,Leito 46,Apartamento,Unimed,Clínica Médica
+3088,248,2026-03-07,13,Leito 9,Apartamento,Particular,Clínica Médica
+3089,282,2026-03-19,1,Leito 50,Enfermaria,Particular,Cardiologia
+3090,612,2026-03-13,7,Leito 21,UTI,Unimed,Ortopedia
+3091,965,2026-02-20,28,Leito 41,Apartamento,Amil,Clínica Médica
+3092,856,2026-02-23,25,Leito 6,Apartamento,Bradesco Saúde,Ortopedia
+3093,920,2026-02-25,23,Leito 1,Enfermaria,Particular,Clínica Médica
+3094,403,2026-02-27,21,Leito 41,UTI,Unimed,Ortopedia
+3095,985,2026-03-18,2,Leito 21,Enfermaria,SulAmérica,Clínica Médica
+3096,156,2026-03-12,8,Leito 36,Enfermaria,Bradesco Saúde,Ortopedia
+3097,610,2026-02-18,30,Leito 5,Apartamento,Unimed,Cardiologia
+3098,520,2026-02-25,23,Leito 29,UTI,Amil,Clínica Médica
+3099,995,2026-03-13,7,Leito 4,Enfermaria,Bradesco Saúde,Clínica Médica
